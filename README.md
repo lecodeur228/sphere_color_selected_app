@@ -1,16 +1,10 @@
 # sphere_color_selected_app
 
-A new Flutter project.
+## screen
 
-## Getting Started
+![Capture d'écran 2024-01-21 141042](https://github.com/lecodeur228/sphere_color_selected_app/assets/92242447/0d62e677-b6e8-4987-bfea-969673af1f97)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/lecodeur228/sphere_color_selected_app/assets/92242447/81cedc30-1c3b-4b8b-b3a8-fde1499cc636
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
